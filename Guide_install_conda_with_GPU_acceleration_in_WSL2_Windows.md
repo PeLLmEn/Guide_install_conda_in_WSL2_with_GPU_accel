@@ -213,4 +213,4 @@ pip install -U scikit-learn tqdm torchsummary matplotlib
 <center><img src="./Images/24.png" width="500"></center>
 
 * Радуемся хорошему приросту скорости обучение с использованием мультпотока под Windows! (PS: colab эту модель считает 5-6 мин, то же время я получаю без мультипотока из-под Windows) 
-<center><img src="./Images/24.png" width="500"></center>
+<center><img src="./Images/25.png" width="500"></center>
